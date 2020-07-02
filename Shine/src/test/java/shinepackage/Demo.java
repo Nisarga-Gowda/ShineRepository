@@ -7,12 +7,7 @@ public class Demo {
 	public void run()
 	{
 		Reporter.log("yes running",true);
-		Reporter.log("yes runningfggg",true);
-		Reporter.log("yes runningfggg",true);
-		Reporter.log("yes runningfggg",true);
-		Reporter.log("yes runningfggg",true);
-		Reporter.log("yes runningfggg",true);Reporter.log("yes runningfggg",true);
-		Reporter.log("yes runningfggg",true);
+		
 	}
 
 }
