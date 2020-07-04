@@ -7,7 +7,7 @@ public class Demo {
 	public void run()
 	{
 		Reporter.log("yes running",true);
-		
+		Reporter.log("yes running",true);
 	}
 
 }
