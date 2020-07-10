@@ -14,12 +14,12 @@
       <![CDATA[helllo u there]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="59" started-at="2020-07-04T09:21:01 IST" finished-at="2020-07-04T09:21:01 IST">
+  <suite name="Suite" duration-ms="105" started-at="2020-07-10T12:55:29 IST" finished-at="2020-07-10T12:55:29 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="59" started-at="2020-07-04T09:21:01 IST" finished-at="2020-07-04T09:21:01 IST">
+    <test name="Test" duration-ms="105" started-at="2020-07-10T12:55:29 IST" finished-at="2020-07-10T12:55:29 IST">
       <class name="shinepackage.Demo">
-        <test-method status="PASS" signature="run()[pri:0, instance:shinepackage.Demo@4b553d26]" name="run" duration-ms="10" started-at="2020-07-04T09:21:01 IST" finished-at="2020-07-04T09:21:01 IST">
+        <test-method status="PASS" signature="run()[pri:0, instance:shinepackage.Demo@4b553d26]" name="run" duration-ms="18" started-at="2020-07-10T12:55:29 IST" finished-at="2020-07-10T12:55:29 IST">
           <reporter-output>
             <line>
               <![CDATA[yes running]]>
@@ -31,7 +31,7 @@
         </test-method> <!-- run -->
       </class> <!-- shinepackage.Demo -->
       <class name="shinepackage.helloworld">
-        <test-method status="PASS" signature="world()[pri:0, instance:shinepackage.helloworld@69a3d1d]" name="world" duration-ms="1" started-at="2020-07-04T09:21:01 IST" finished-at="2020-07-04T09:21:01 IST">
+        <test-method status="PASS" signature="world()[pri:0, instance:shinepackage.helloworld@69a3d1d]" name="world" duration-ms="3" started-at="2020-07-10T12:55:29 IST" finished-at="2020-07-10T12:55:29 IST">
           <reporter-output>
             <line>
               <![CDATA[helllo u there]]>
